@@ -1,0 +1,14 @@
+{
+  "name": "refactors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "belongsTo.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
